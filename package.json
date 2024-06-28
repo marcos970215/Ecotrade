@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "concurrently \"servor --reload\" \"npx json-server db.json\""
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "json-server": "^1.0.0-beta.1"
+  }
+}

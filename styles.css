@@ -1,0 +1,88 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  color: black;
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  padding: 1rem;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.ecotrade-header-navbar {
+  padding: 0 !important;
+  background-color: #738e3b !important;
+}
+
+.hide-element {
+  display: none;
+}
+
+.ecotrade-header-logo {
+  padding: 0px !important;
+  margin: 0px;
+  border: none;
+}
+
+.ecotrade-page-title {
+  color: #15551b;
+  font-weight: 600;
+}
+
+.ecotrade-btn-primary {
+  background-color: #15551b !important;
+  color: white !important;
+  font-weight: 400;
+}
+
+.ecotrade-btn-secondary {
+  background-color: #738e3b !important;
+  color: white !important;
+  font-weight: 400;
+}
+
+.eco-trade-banner {
+  min-height: 430px;
+  background-color: #738e3b;
+  background-image: url('/assets/ecotrade-banner.png');
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.form-control:disabled {
+  background-color: white !important;
+  border: none !important;
+  font-weight: 600;
+  opacity: 0;
+  padding: 0;
+}
+
+.text-box {
+  background-color: #f5f5f5;
+  color: #15551b;
+  font-weight: 600;
+  padding: 16px;
+  border-radius: 8px;
+}
+
+ecotrade-footer {
+  display: block;
+  background-color: #525252;
+  margin-top: auto;
+  text-align: center;
+  font-size: 16px;
+  border: none;
+}

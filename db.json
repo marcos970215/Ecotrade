@@ -1,0 +1,90 @@
+{
+  "parceiros": [
+    {
+      "id": "0",
+      "nome": "ACAMARES",
+      "endereco": "Av. Comendador Francisco Alves Quintas, 1080 - Distrito Industrial Benjamim Guimarães, Sarzedo - MG, 32450-000",
+      "funcionamento": "Seg. à Sex. - 08 às 17.",
+      "contato": "(31) 3522-8214",
+      "imgSrc": "/assets/metal.jpg",
+      "materialReciclagem": "metal"
+    },
+    {
+      "id": "1",
+      "nome": "RECICLANDO BH",
+      "endereco": "R. Padre Viégas, 145 - Jardim Industrial, Contagem - MG, 32215-120",
+      "funcionamento": "Seg. à Sex. - 0:30 às 17:30",
+      "contato": "(31) 97586-4084",
+      "imgSrc": "/assets/plastico.jpg",
+      "materialReciclagem": "plástico"
+    },
+    {
+      "id": "2",
+      "nome": "ELITE RESÍDUOS",
+      "endereco": "R. Maria Magdalena Camargos, 29 - Jardinópolis, Belo Horizonte - MG, 30532-300",
+      "funcionamento": "Seg. à Sex. - 08 às 18.",
+      "contato": "(31) 3889-9119",
+      "imgSrc": "/assets/papel.jpg",
+      "materialReciclagem": "papel"
+    },
+    {
+      "id": "3",
+      "nome": "RECICLAGEM BETIM",
+      "endereco": "R. Vinte e Quatro, 51 - Cruzeiro do Sul, Betim - MG, 32672-722",
+      "funcionamento": "Seg. à Sex. - 08 às 17:30, Sábado - 08 às 12:00",
+      "contato": "(31) 97171-5795",
+      "imgSrc": "/assets/vidro.jpg",
+      "materialReciclagem": "vidro"
+    }
+  ],
+  "users": [
+    {
+      "id": "123",
+      "nome": "Fabio Batista Do Santos",
+      "email": "fabio@gmail.com",
+      "cep": "30640-070",
+      "bairro": "Barreiro",
+      "cpf": "123.456.789-10",
+      "telefone": "(31) 9 9876-5432",
+      "endereco": "Av. Afonso Vaz de Melo, 1.200",
+      "cidade": "Belo Horizonte",
+      "senha": "suaSenhaSegura"
+    },
+    {
+      "id": "456",
+      "nome": "Ana Clara Oliveira",
+      "email": "ana.clara@gmail.com",
+      "cep": "30130-010",
+      "bairro": "Centro",
+      "cpf": "987.654.321-00",
+      "telefone": "(31) 9 8765-4321",
+      "endereco": "Rua dos Guajajaras, 123",
+      "cidade": "Belo Horizonte",
+      "senha": "senhaAna2024"
+    },
+    {
+      "id": "789",
+      "nome": "Carlos Eduardo Silva",
+      "email": "carlos.silva@gmail.com",
+      "cep": "30421-169",
+      "bairro": "Prado",
+      "cpf": "654.321.987-45",
+      "telefone": "(31) 9 7654-3210",
+      "endereco": "Av. Francisco Sá, 456",
+      "cidade": "Belo Horizonte",
+      "senha": "senhaCarlos123"
+    },
+    {
+      "id": "601a",
+      "nome": "usuario novo",
+      "email": "email@email.com",
+      "telefone": "31977554587",
+      "senha": "senha123",
+      "cpf": "01937347730",
+      "cep": "30644-100",
+      "endereco": "Rua Eridano",
+      "bairro": "Miramar (Barreiro)",
+      "cidade": "Belo Horizonte"
+    }
+  ]
+}
